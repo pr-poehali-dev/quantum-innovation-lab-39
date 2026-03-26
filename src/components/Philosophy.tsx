@@ -47,7 +47,7 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
               }`}
             >
-              Наша философия
+              Моя философия
             </p>
 
             <h2
@@ -55,10 +55,10 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Искусство
-              <span className="italic"> осознанной</span>
+              Педагогика
+              <span className="italic"> с душой</span>
               <br />
-              жизни
+              и смыслом
             </h2>
 
             <div
@@ -67,13 +67,13 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Я верю, что в каждом ребёнке заложен потенциал для роста. Моя задача — не заполнить голову
+                фактами, а разбудить любопытство и научить мыслить самостоятельно.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                Мой подход строится на <em className="text-foreground">уважении к личности</em> каждого ученика,
+                терпении и создании безопасной среды, где можно задавать вопросы и
+                <em className="text-foreground"> ошибаться без страха</em>.
               </p>
             </div>
 
@@ -84,15 +84,15 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">15</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">500+</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Учеников</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
                 <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
               </div>
             </div>
